@@ -3,7 +3,7 @@ package practica4;
 public class Calendario {
 
     // Atributos de la clase: año, mes, día y el límite de días de un mes
-    int anyo, mes, dia, tope;
+    private int anyo, mes, dia, tope;
 
     // Constructor de la clase Calendario, que inicializa los valores de año, mes y día
     public Calendario(int anyo, int mes, int dia) {
